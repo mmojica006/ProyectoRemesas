@@ -7,7 +7,7 @@ using System.Web.Mvc;
 
 namespace Bootstrap.Areas.Admin.Controllers
 {
-    [Autenticado]
+    //[Autenticado]
     public class RemesasController : Controller
     {
         // GET: Admin/Remesas
